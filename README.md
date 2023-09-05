@@ -7,9 +7,7 @@ Welcome to my PowerBI Interactive Dashboard Projects repository! This collection
 1. [Introduction](#introduction)
 2. [Project Descriptions](#project-descriptions)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
 
 ## Introduction
 
