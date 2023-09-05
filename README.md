@@ -25,7 +25,7 @@ These projects are aimed at showcasing my skills in:
 
 ## Project Descriptions
 
-### Project 1: Sales Report Dashboard
+### Feature 1: Sales Report Dashboard
 
 **Description:** This project focuses on creating an interactive sales report dashboard. It includes data from different regions, products, and time periods. Key features include:
 
@@ -34,7 +34,7 @@ These projects are aimed at showcasing my skills in:
 - Drill-through functionality to explore detailed data.
 - Filters for selecting specific time periods and regions.
 
-### Project 2: Sales Forecasting Dashboard
+### Feature 2: Sales Forecasting Dashboard
 
 **Description:** In this project, I have developed a sales forecasting dashboard. It utilizes historical sales data and employs forecasting techniques to predict future sales. Key features include:
 
